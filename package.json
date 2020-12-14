@@ -1,0 +1,25 @@
+{
+  "name": "bitcoin-address-generator",
+  "version": "1.0.0",
+  "main": "index.php",
+  "scripts": {
+    "clean": "gulp clean",
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Osaj",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bitcoin-address-generator": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisosaj/bitcoin-address-generator.git"
+  },
+  "homepage": "https://github.com/dennisosaj/bitcoin-address-generator#readme",
+  "description": "Personal Bitcoin Adress Generator",
+  "bugs": {
+    "url": "https://github.com/dennisosaj/bitcoin-address-generator/issues"
+  }
+}
